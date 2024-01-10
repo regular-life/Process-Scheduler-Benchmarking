@@ -47,7 +47,7 @@ This program creates three child processes and assigns them different scheduling
 6. **View Results:**
    - After execution, the program generates a histogram to compare the execution times of processes with different scheduling policies.
    - The histogram is displayed using Python and Matplotlib.
-![Error](https://github.com/regular-life/Process-Scheduler-Benchmarking/Figure_1.png)
+![Error](https://github.com/regular-life/Process-Scheduler-Benchmarking/blob/main/Figure_1.png)
 
 7. **Delete executables:**
    - Delete the executables using the following:
