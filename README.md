@@ -29,7 +29,7 @@ This program creates three child processes and assigns them different scheduling
    - Download the .zip file from https://github.com/regular-life/Process-Scheduler-Benchmarking.
    
 3. **Opening the Project:**
-   - Unzip the file and navigate to "Assignment-2" -> "Ques3".
+   - Unzip the file.
    - Right-click on the screen and select "Go to terminal here" (or any other similar option).
 
 4. **Compilation:**
