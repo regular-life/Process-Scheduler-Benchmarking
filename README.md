@@ -23,10 +23,10 @@ This program creates three child processes and assigns them different scheduling
 2. **Cloning the Repository:**
    - Clone the repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/regular-life/OS-Assignments.git
+     git clone https://github.com/regular-life/Process-Scheduler-Benchmarking
      ```
      **OR**
-   - Download the .zip file from https://github.com/regular-life/OS-Assignments.
+   - Download the .zip file from https://github.com/regular-life/Process-Scheduler-Benchmarking.
    
 3. **Opening the Project:**
    - Unzip the file and navigate to "Assignment-2" -> "Ques3".
@@ -47,7 +47,7 @@ This program creates three child processes and assigns them different scheduling
 6. **View Results:**
    - After execution, the program generates a histogram to compare the execution times of processes with different scheduling policies.
    - The histogram is displayed using Python and Matplotlib.
-![Error](https://github.com/regular-life/OS-Assignments/blob/main/Assignment-2/Ques2/Figure_1.png)
+![Error](https://github.com/regular-life/Process-Scheduler-Benchmarking/Figure_1.png)
 
 7. **Delete executables:**
    - Delete the executables using the following:
